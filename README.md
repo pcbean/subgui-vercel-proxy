@@ -1,3 +1,3 @@
 # vercel-proxy
 
-sub-proxy 反代
+sub_gui 反代
